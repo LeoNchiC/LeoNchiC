@@ -3,7 +3,7 @@
 #### I am **Flipuk**, my real name is **Nikita**. I am 15 years old.
 #### Code write in ⚡**Python**⚡, occasionally in ⚡**Java**⚡.
 #### Use💬 [telegram](https://t.me/Flipuk) to communicate with me.
---- 
+<!----- 
 ### Русский
 #### Приветики 👋
 #### Меня зовут **Flipuk**, моё реальное имя **Никита**. Мне 15 лет.
@@ -16,7 +16,7 @@
 #### Piszę kod w ⚡**Python**⚡, okazjonalnie w ⚡**Java**⚡.
 #### Skorzystaj z mojego💬 [telegramu](https://t.me/Flipuk) i skontaktuj się ze mną.
 
-<!--
+
 **LeoNchiC/LeoNchiC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
