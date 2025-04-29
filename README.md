@@ -1,5 +1,5 @@
 #### Hello there 👋
-#### I am **Flipuk**, my real name is **Nikita**. I am 15 years old.
+#### I am **Flipuk**
 #### Code write in ⚡**Python**⚡, occasionally in ⚡**Java**⚡.
 #### Use💬 [telegram](https://t.me/Flipuk) to communicate with me.
 <!----- 
