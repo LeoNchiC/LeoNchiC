@@ -1,4 +1,3 @@
-### English 
 #### Hello there 👋
 #### I am **Flipuk**, my real name is **Nikita**. I am 15 years old.
 #### Code write in ⚡**Python**⚡, occasionally in ⚡**Java**⚡.
